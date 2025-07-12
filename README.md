@@ -18,3 +18,10 @@
 - Analyzing complex data relationships and ensuring query accuracy and performance
 - Collaborating with the team to improve existing database queries and troubleshoot join-related issues
 This experience helped me enhance both my technical SQL proficiency and my ability to work in a collaborative IT environment.
+
+#OUTPUT
+
+<img width="1767" height="776" alt="Image" src="https://github.com/user-attachments/assets/027ab4ba-f873-4ee5-bf97-47e27c33a315" />
+<img width="1766" height="768" alt="Image" src="https://github.com/user-attachments/assets/510b92f3-1d75-4ead-9f95-395be5ed9ab9" />
+<img width="1791" height="783" alt="Image" src="https://github.com/user-attachments/assets/0962a96a-18c4-4bc2-afc0-0363528d6977" />
+<img width="1768" height="776" alt="Image" src="https://github.com/user-attachments/assets/19ff7a43-86b8-434c-af6a-ab19464c3274" />
